@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
+- 💻 I’m currently develop a low code platform
+- 🏊‍♀️ I like swimming 
+- 🎧 Favorite song recently is Don't wake me i'm not dreaming
 
-<!--
-**heythanks/heythanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heythanks)](https://github.com/Christmas/github-readme-stats)
 
-Here are some ideas to get you started:
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=heythanks&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About visitor
+
+![Visitor Count](https://profile-counter.glitch.me/heythanks/count.svg)
